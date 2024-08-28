@@ -1,4 +1,5 @@
-# Test perdi as contas depois de 1 mes AAAAH
+# Test01        Tentando criar um código que tenha as mesmas funções de uma calculadora
+
 n1 = float(input('Digite o primeiro valor: '))
 operador = input('Digite o operador: ')
 n2 = float(input('Digite o segundo valor: '))
